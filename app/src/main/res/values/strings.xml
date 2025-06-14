@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mulky Assistant</string>
+    <string name="tab_charts">Charts</string>
+    <string name="tab_analysis">Analysis</string>
+    <string name="tab_journal">Journal</string>
+    <string name="tab_settings">Settings</string>
+    
+    <!-- Trading Terms -->
+    <string name="bos">BOS</string>
+    <string name="choch">CHOCH</string>
+    <string name="fvg">FVG</string>
+    <string name="ote">OTE</string>
+    <string name="killzone">Killzone</string>
+    <string name="amdx">AMDX</string>
+    
+    <!-- Voice Commands -->
+    <string name="voice_command_analyze">Analyze</string>
+    <string name="voice_command_watch">Watch</string>
+    <string name="voice_command_journal">Journal</string>
+    <string name="voice_command_pause">Pause</string>
+    
+    <!-- Messages -->
+    <string name="msg_connecting">Connecting to market data…</string>
+    <string name="msg_analyzing">Analyzing market conditions…</string>
+    <string name="msg_no_internet">No internet connection</string>
+    <string name="msg_reconnecting">Reconnecting…</string>
+</resources>
